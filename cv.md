@@ -10,7 +10,6 @@
 * JavaScript
 * Bootstrap
 * Git
-* Vue
 
 ## My easy example code
 ```
